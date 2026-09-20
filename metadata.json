@@ -1,0 +1,6 @@
+{
+  "name": "Planta Viva - Página de Vendas",
+  "description": "Página de vendas oficial do método Planta Viva para cuidar, diagnosticar e recuperar plantas domésticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
